@@ -112,4 +112,30 @@ Accept the license agreement to download and locate the file, and double click i
 Go back to Step 1 and confirm that you have Java version 7 or higher installed.
 
 Do not move on with Android Studio install until after you have installed the JDK. Without a working copy of Java, the rest of the process will not work. If you can't get the download to work, look for error messages, and try googling to find a solution.
-NEXT
+
+
+# Installation Guide: Windows
+
+
+## Install Android Studio
+Navigate [here, to the Android developers site](https://developer.android.com/sdk/index.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics) to install Android Studio. This page will automatically detect your operating system.
+
+ ![Android Studio Windows](https://lh3.googleusercontent.com/upnN0xocPfiSOuekj6vkuyr2d9UJYOdwwMKc_ME5khJBis_3ms-4Nftm1cUUHSi2MUFCyKV3XRX-APtUlw8=s0#w=1600&h=900)
+
+Accept the terms and conditions to start the download. Double-click the downloaded file and follow all the prompts. Open the downloaded file, and follow the Android Studio Setup Wizard. Accept the defaults configuration for all steps.
+
+![Android Studio Welcome](https://lh3.googleusercontent.com/upnN0xocPfiSOuekj6vkuyr2d9UJYOdwwMKc_ME5khJBis_3ms-4Nftm1cUUHSi2MUFCyKV3XRX-APtUlw8=s0#w=1600&h=900)
+
+When you reach this screen, make sure that all components are selected.
+
+![Components](https://lh3.googleusercontent.com/h90x4yYrSwdh7hPvOjE3o6Mz5aCho3mQw-RMHaatfSKw9zc_tr7z3hG-1_Yarjr0aLJnDVBfQ07JVcE_ZzY=s0#w=606&h=497)
+
+### Setup Wizard
+After finishing the install, the Setup Wizard will download and install some additional components. Be patient, this might take some time depending on your internet speed.
+
+![Downloading](https://lh3.googleusercontent.com/8n9iVtVIedqJJ2OB95afgDcy6nhgm08d6i0ZpdRj6TYgZrn-alqqUEiYpvtaqShBhOnjOPZdIBVqJKn9Py8=s0#w=807&h=606)
+
+## Install Finished!
+When you are finished, you will see this window: 
+
+ ![Start Screen](https://lh3.googleusercontent.com/fygNIxbG-ioFtBZ7sc-JhJ3LurKC1LpmIODaOt66IBkM4fdwTdZdYFUfY_shUD7qCHcC4syH7ItMisqiKnY=s0#w=695&h=582)
