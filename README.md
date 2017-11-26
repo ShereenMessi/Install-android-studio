@@ -75,4 +75,41 @@ One of the requirement is JDK so next step is to install it
    Go back to Step 1 and confirm that you have Java version 7 or higher installed.
 
 Do not move on with Android Studio install until after you have installed the JDK. Without a working copy of Java, the rest of the process will not work. If you can't get the download to work, look for error messages, and try googling to find a solution.
-Link to Java download site
+
+## Mac
+1. Verify That You Have Java
+First, check if you have the Java Developer Kit, version 7 or greater already installed. To check if you have JDK installed (and which version), open a terminal window and type: java -version and hit enter.
+
+The example below shows Java version 8.0_45 -- the version number comes after the “1.”
+
+![terminal](https://lh3.googleusercontent.com/lNElQZTF--sOpUlKJ_1R4Dedyo2mme8waqHE2tvrS8_rOVmCwD3g7XlPVbRbJJUal2bOvND07aA8MpMOrA=s0#w=600&h=149)
+
+If you have Java 7 or greater, you computer is set up!
+
+If the JDK is not available, or the version is lower than 7, go on to Step 2 below.
+
+2. Download the Java Development Kit
+Download the Java Development Kit, aka, the JDK, from [this page](http://www.oracle.com/technetwork/java/javase/downloads/index.html).
+
+Oracle, the company that maintains Java, has a lot of options and acronyms. We're looking for the plain old JDK. This is the kit you need to start developing your apps with Java.
+
+As of May 2015, the download icon for the JDK looked like this:
+
+![JDK link](https://lh3.googleusercontent.com/d2gccK19xRrcYQhTJiLiV44dp5GcOcQWqspeqG4DFiGqtqiGyjytR-cbgcBk8BKTinrSjKn6fM3VJ-4Nwg=s0#w=200&h=144)
+
+After you click the download link, you'll see a list of options for download. Go to the Java SE Development Kit menu of options.
+
+Do not go to the demos and samples (the menus look very similar, so make sure to read the heading at the top).
+
+Install
+Select the JDK for your operating system (Mac OSX). In most cases, if you have a machine that is less than 4 years old, you should choose the x64 (64-bit) version (highlighted below). Search online for instructions if you have an older machine and are unsure what version to download.
+
+![mac jdk](https://lh3.googleusercontent.com/pEh3IDq-ojd_o0Cm_QMG0W-LnsSwmv504yyy6vSrYtGLV9d6Qi0Ki2CBA2Ol246rRAypXQgfpry5vT82MAI=s0#w=450&h=224)
+
+Accept the license agreement to download and locate the file, and double click it to begin the installation process.
+
+3: Verify That You Have Java
+Go back to Step 1 and confirm that you have Java version 7 or higher installed.
+
+Do not move on with Android Studio install until after you have installed the JDK. Without a working copy of Java, the rest of the process will not work. If you can't get the download to work, look for error messages, and try googling to find a solution.
+NEXT
