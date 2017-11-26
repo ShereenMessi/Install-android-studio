@@ -135,7 +135,30 @@ After finishing the install, the Setup Wizard will download and install some add
 
 ![Downloading](https://lh3.googleusercontent.com/8n9iVtVIedqJJ2OB95afgDcy6nhgm08d6i0ZpdRj6TYgZrn-alqqUEiYpvtaqShBhOnjOPZdIBVqJKn9Py8=s0#w=807&h=606)
 
-## Install Finished!
+### Install Finished!
 When you are finished, you will see this window: 
 
- ![Start Screen](https://lh3.googleusercontent.com/fygNIxbG-ioFtBZ7sc-JhJ3LurKC1LpmIODaOt66IBkM4fdwTdZdYFUfY_shUD7qCHcC4syH7ItMisqiKnY=s0#w=695&h=582)
+ ![Start Screen](https://lh3.googleusercontent.com/fygNIxbG-ioFtBZ7sc-JhJ3LurKC1LpmIODaOt66IBkM4fdwTdZdYFUfY_shUD7qCHcC4syH7ItMisqiKnY=s0#w=695&h=582) 
+ 
+ 
+ # Installation Guide: Mac
+ 
+ ## Install Android Studio
+ Navigate [here, to the Android developers site](https://developer.android.com/sdk/index.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics) to install Android Studio. This page will automatically detect your operating system. 
+ 
+ ![Android Studio Mac](https://lh3.googleusercontent.com/FO0eFceUigF6u7GSOOTcX5mayR7JKRafVtt8pFpgg7pFLyOE2PB9faQZJ5RQutACNvgH0oTD196BajWgzrBc=s0#w=785&h=497)
+
+Accept the terms and conditions to start the download. Double-click the downloaded file and follow all the prompts. Drag the Android Studio icon into your Applications folder.
+
+### Setup Wizard
+The setup wizard will setup Android Studio for you.
+
+![Downloading](https://lh3.googleusercontent.com/T1DtDynU2lbkdiO_rpfs2zropvChkjht5iEtDzaeveMgxlq90_tcrkSe9sY92mdfsS6VvWe7o8A9nZzNe-Kb=s0#w=800&h=578)
+
+You can go ahead and choose Standard Setup and accept all the licenses.
+
+### Install Finished!
+When you are finished, you will see this window: Start Screen
+![start Screen](https://lh3.googleusercontent.com/fygNIxbG-ioFtBZ7sc-JhJ3LurKC1LpmIODaOt66IBkM4fdwTdZdYFUfY_shUD7qCHcC4syH7ItMisqiKnY=s0#w=695&h=582)
+If you're installing a recent version of Android Studio (from around April/May/June 2015) on a Mac, a standard installation might fail with a bunch of errors. If that happens, try doing a "Custom Setup" instead. Just keep clicking "Next" through all of the custom options (there's nothing you actually need to change) and let it install. If using a custom install doesn't fix your issue, keep troubleshooting and look through discussion posts!
+
